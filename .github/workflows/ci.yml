@@ -2,6 +2,8 @@ name: Build & Publish
 run-name: Version ${{github.ref_name}}
 on:
   push:
+    branches:
+      - master
     tags:
       - '*-SONN'
 
