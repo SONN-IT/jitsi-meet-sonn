@@ -3,7 +3,7 @@ run-name: Version ${{github.ref_name}}
 on:
   push:
     tags:
-      - '*'
+      - '*-SONN'
 
 jobs:
   build-linux:
