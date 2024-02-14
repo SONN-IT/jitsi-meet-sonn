@@ -8,12 +8,12 @@ export default {
     /**
      * The URL to the source code repository.
      */
-    sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
+    sourceURL: 'https://github.com/SONN-IT/jitsi-meet-sonn',
 
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'Jitsi Meet SONN',
 
     /**
     * The prefix for application protocol.
@@ -24,7 +24,7 @@ export default {
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://meet.sonn.at',
 
     /**
      * The default server Timeout in seconds.
@@ -34,7 +34,7 @@ export default {
     /**
      * URL to send feedback.
      */
-    feedbackURL: 'https://github.com/jitsi/jitsi-meet-electron/issues',
+    feedbackURL: 'mailto:helpdesk@sonn.at',
 
     /**
      * The URL of Privacy Policy Page.
